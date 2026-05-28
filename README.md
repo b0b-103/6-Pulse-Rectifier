@@ -1,5 +1,6 @@
 # 6-Pulse-Rectifier
 MATLAB simulation and hardware sourcing for three optimized 6-pulse AC-DC rectifiers
+https://quartz.b0b10.xyz/pe-project
 
 ## Design Specifications
 The MATLAB simulation verifies continuous conduction mode (CCM) and calculates harmonic distortion to satisfy three distinct industry use cases:
